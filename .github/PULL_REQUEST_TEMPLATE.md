@@ -1,9 +1,19 @@
+### Pull Request Comment
+
 Closes #
 
-Check the applicable boxes
-- [ ] Text, dates and numbers are localized
-- [ ] No localization required
-- [ ] Automated unit test created
-- [ ] Automated unit test not required
-- [ ] Additional testing suggested with instructions below
-- [ ] No additional testing required
+
+### Test recommendations
+
+
+### Developer Checklist
+- [ ] Data presented to user is explicitly sorted (when applicable)
+- [ ] Text, date/times and numbers are localized  (when applicable)
+- [ ] Automated unit test is created
+- [ ] Additional testing recommendations provided 
+
+### If applicable; Reviewer acknowledges 
+- [ ] No data presented to user requires explicit sorting 
+- [ ] No localization is required
+- [ ] Automated unit test is not required
+- [ ] Only straight forward testing required
